@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Priyanka Sanku</h1>
+<h1 align="center">Hi 👋, I'm Priyanka S</h1>
 <h3 align="center">Research Intern at UTARI; Passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saipriyankasanku&label=Profile%20views&color=0e75b6&style=flat" alt="saipriyankasanku" /> </p>
